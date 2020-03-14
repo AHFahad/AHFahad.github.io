@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    
+}
+list{
+    text-decoration: none;
+}
+body{
+    background:linear-gradient(-45deg,#ee7752,#e73c7e,#23a6d5,#23d5ab);
+    animation: change 10s ease-in-out infinite;
+    font-family: "Lato",Arial;
+}
+.propic{
+padding-top: 50px;
+   
+}
+.profilepicture{
+    width:200px;
+    border-radius: 100%;
+    border :1px solid #3d6cb0;
+    padding: 8px;
+    position:relative;
+    float: left;
+        
+}
+
+
+.box{
+    position:relative;
+    width: auto;
+    background:linear-gradient(120deg,#ee7752,#e73c7e,#23a6d5,#23d5ab);
+    float:inherit;
+    margin: 2%;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 10px;
+    border: 4px solid white;
+    
+}
+.box{
+    text-align: center;
+   text-decoration: none;
+}
+.name{
+    text-align:center;
+    padding-bottom: 300px;
+    padding-left: 10px;
+    padding-top: 100px;
+    width: 40%;
+    border-bottom: 30px;
+   
+}
+header{
+    height: 100px;
+    min-height: 500px;
+    padding: 0 5%;
+    background-image: url(img/background_header.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: top right;
+}
+.study{
+     height: auto;
+    min-height: 0px;
+    padding: 0 5%;
+    background-image: url(study.jpg);
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: top right;
+}
+.education{
+    width: 100%;
+}
+.contact{
+    height: auto;
+    min-height: 0px;
+    padding: 0 5%;
+    background-image: url(contact.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: top left;
+}
+.address{
+    height: auto;
+    min-height: 0px;
+    padding: 0 5%;
+    background-image: url(address.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: top right;
+}
+.skills{
+    text-decoration: none;
+    height: auto;
+    min-height: 0px;
+    padding: 0 5%;
+    background-image: url(skills.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: top left;
+}
+
+
+
+.profile{
+    text-decoration: none;
+    height: auto;
+    min-height: 0px;
+    padding: 0 5%;
+    background-image: url(profile.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: top right;
+}
+
+
+.project{
+    text-decoration: none;
+    height: auto;
+    min-height: 0px;
+    padding: 0 5%;
+    background-image: url(project.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: top right;
+}
+
+.award{
+    text-decoration: none;
+    height: auto;
+    min-height: 0px;
+    padding: 0 5%;
+    background-image: url(award.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: top left;
+}
+
+.extra{
+    text-decoration: none;
+    height: auto;
+    min-height: 0px;
+    padding: 0 5%;
+    background-image: url(extra.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: top left;
+}
+
+.interested{
+    text-decoration: none;
+    height: auto;
+    min-height: 0px;
+    padding: 0 5%;
+    background-image: url(interested.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: top right;
+}
+
+
